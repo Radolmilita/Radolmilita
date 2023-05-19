@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Radolmilita, Valerii Dymytriiev
-- 👀 I’m interested in developing applications based on .NET and React
-- 🌱 I’m currently learning ASP.NET Core
+- 👀 I’m interested in developing full-stack applications based on .NET, React/Angular, Swift, Objective-C
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: 
                       gmail: radolmilita@gmail.com
                       Telegram: @radolmilita
